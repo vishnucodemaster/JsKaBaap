@@ -18,3 +18,15 @@ console.log(typeof Numbers)
 console.log(typeof stringNumber);
 
 
+///
+let str1 = "hello"
+let str2 ="vishnu"
+
+console.log(str1+str2)
+
+console.log("1"+2+2) // 122
+console.log(1+2+"2")  // 32
+
+// console.log(--true)//SyntaxError: Invalid left-hand side expression in prefix operation
+
+
