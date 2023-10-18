@@ -20,3 +20,13 @@ console.log(map);
 for (const [key,value] of map) {
     console.log(key, value);
 }
+
+const myObject = {
+    'game1':'NFS',
+    'game2':'EA SPORT'
+}
+
+// for (const [key,value] of myObject) {
+//     console.log(key,value);
+    
+// }
